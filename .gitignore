@@ -1,0 +1,34 @@
+# 🔧 File di configurazione utente (personali, da non condividere)
+*.uvguix.*
+
+# 🧹 File di build e oggetti temporanei
+*.axf
+*.bak
+*.iex
+*.lst
+*.map
+*.o
+*.d
+*.crf
+*.lnp
+*.sct
+
+# 📂 Cartelle di output e debug
+Listings/
+Objects/
+DebugConfig/
+RTE/
+
+# 🧼 File di log o temporanei dell'IDE
+*.log
+*.tmp
+
+# 💻 File generati dal debugger
+*.dasm
+*.tra
+
+# 🧪 File generati dalla simulazione o dai test
+*.htm
+
+# 💾 File di backup automatici
+*~
